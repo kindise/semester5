@@ -1,0 +1,3 @@
+1. install python
+2. pip install -r requirements.txt (di folder yang sama dengan file)
+3. streamlit run --app.py (untuk runnning aplikasi)
